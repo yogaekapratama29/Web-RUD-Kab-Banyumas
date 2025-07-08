@@ -39,19 +39,19 @@
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
     <div class="bg-amber-100 rounded-xl p-4 text-center shadow card-hover">
       <img src="https://img.icons8.com/ios-filled/50/a16207/bridge.png" class="mx-auto h-10 mb-2" alt="jembatan">
-      <div class="font-semibold text-sm text-amber-800">Indeks kepuasan layanan jembatan</div>
+      <div class="font-semibold text-sm text-amber-800">Indeks Kepuasan Layanan Jembatan</div>
     </div>
     <div class="bg-gray-100 rounded-xl p-4 text-center shadow card-hover">
       <img src="https://img.icons8.com/ios-filled/50/6b7280/highway.png" class="mx-auto h-10 mb-2" alt="jalan">
-      <div class="font-semibold text-sm text-gray-700">Indeks kepuasan layanan jalan</div>
+      <div class="font-semibold text-sm text-gray-700">Indeks Kepuasan Layanan Jalan</div>
     </div>
     <div class="bg-orange-50 rounded-xl p-4 text-center shadow card-hover">
       <img src="https://img.icons8.com/color/48/exhaust-pipe.png" class="mx-auto h-10 mb-2" alt="drainase" />
-      <div class="font-semibold text-sm text-orange-700">Indeks kepuasan layanan drainase</div>
+      <div class="font-semibold text-sm text-orange-700">Indeks Kepuasan Layanan Drainase</div>
     </div>
     <div class="bg-blue-50 rounded-xl p-4 text-center shadow card-hover">
       <img src="https://img.icons8.com/ios-filled/50/2563eb/water.png" class="mx-auto h-10 mb-2" alt="air bersih">
-      <div class="font-semibold text-sm text-blue-700">Indeks kepuasan layanan air bersih</div>
+      <div class="font-semibold text-sm text-blue-700">Indeks Kepuasan Layanan Air Bersih</div>
     </div>
   </div>
 </section>
